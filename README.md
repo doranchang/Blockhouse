@@ -19,23 +19,23 @@ This project is a web-based charting application that uses React on the frontend
 1. **Clone the Repository**:
    ```bash
    git clone https://github.com/doranchang/Blockhouse.git
-   cd Blockhouse
+   cd Blockhouse```
 2. **Set up a virtual environment**:
    ```python -m venv venv
-   source venv/bin/activate  # For Windows: venv\Scripts\activate
+   source venv/bin/activate  # For Windows: venv\Scripts\activate```
 3. **Install dependencies**:
-   ```pip install -r requirements.txt
+   ```pip install -r requirements.txt```
 4. **Run Django migrations**:
    ```bash
-   python manage.py migrate
+   python manage.py migrate```
 5. **Run Django server**:
-   ```python manage.py runserver
+   ```python manage.py runserver```
 6. **Navigate to the frontend directory**:
-   ```cd nextjs-charts
+   ```cd nextjs-charts```
 7. **Install dependencies**:
-   ```npm install
+   ```npm install```
 8. **Run the React development server**:
-   ```npm run dev
+   ```npm run dev```
 
 ### Libraries and Tools
 Backend (Django):

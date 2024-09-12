@@ -1,0 +1,12 @@
+# Node.js dependencies (for both frontend and backend)
+node_modules
+# Logs
+logs
+*.log
+# Environment variables
+.env
+# Build artifacts
+dist
+build
+# Others
+.DS_Store
